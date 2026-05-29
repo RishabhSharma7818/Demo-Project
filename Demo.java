@@ -12,6 +12,8 @@ public class Demo{
         d.greet();
 
         System.out.println("I am bad");
+        int a = 5;  System.out.println("I am good!");
+        System.out.println(a);
         
     }
 }
