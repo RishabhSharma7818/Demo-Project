@@ -11,7 +11,8 @@ public class Demo{
         Demo d = new Demo();
         d.greet();
         
-        System.out.println("I am good!");
+        int a = 5;  System.out.println("I am good!");
+        System.out.println(a);
         
     }
 }
