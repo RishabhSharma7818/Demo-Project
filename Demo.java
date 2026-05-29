@@ -11,5 +11,7 @@ public class Demo{
         Demo d = new Demo();
         d.greet();
         
+        System.out.println("I am good!");
+        
     }
 }
