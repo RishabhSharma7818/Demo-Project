@@ -13,5 +13,7 @@ public class Demo{
 
         System.out.println("I am good!");
         
+        System.out.println("I am good!");
+        
     }
 }
